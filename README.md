@@ -1,4 +1,4 @@
 androAccess
 ===========
 
-Android Accessibility TestProject
+Android Accessibility Test Project
