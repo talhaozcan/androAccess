@@ -13,12 +13,12 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
     
-
-	    <service android:name=".MyAndroAccessService">
+         <service android:name=".MyAndroAccessService">
 	     <intent-filter>
 	         <action android:name="android.accessibilityservice.AccessibilityService" />
 	     </intent-filter>
 	     
 		</service>
+		
 	</application>
 </manifest>
